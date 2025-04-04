@@ -42,9 +42,13 @@ python app.py
 ## Example Output
 **Below is an example of what the output might look like after running the analyzer**:
 Total Messages       : 10,000
+
 Total Words          : 50,000
+
 Most Active Participant : User A (3,000 messages)
+
 Peak Activity Hour   : 8 PM - 9 PM
+
 Most Used Emoji      : 😂
 
 [Visualizations generated: timelines, heatmaps, word clouds]
